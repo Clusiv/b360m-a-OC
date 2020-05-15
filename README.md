@@ -9,6 +9,6 @@ MacOS Catalina 10.15.4
 | ------ | ------ |
 | CPU | Intel Core i3 9100f |
 | MotherBoard | Asus B360M-A |
-| RAM | 16GB Crucial 2400MGz |
+| RAM | 16GB Crucial 2400MHz |
 | Graphics | Sapphire Pulse Radeon RX580 8GB |
 | Storage | Kingston A2000R 256GB |
